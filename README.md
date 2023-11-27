@@ -1,4 +1,4 @@
 # apnacollege-demo
 my first git repository
 <br>
-author - vibhor singh
+author - vibhor (apna college)
